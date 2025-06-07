@@ -1,0 +1,7 @@
+home_team,away_team,home_goals,away_goals
+Team A,Team B,2,1
+Team B,Team C,1,2
+Team C,Team A,0,2
+Team A,Team C,3,1
+Team B,Team A,2,1
+Team C,Team B,1,2
